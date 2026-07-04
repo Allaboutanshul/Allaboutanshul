@@ -13,13 +13,13 @@
 
 ## 🧑‍💻 About Me
 
-I am a passionate **Data Analyst** and **Frontend Developer** pursuing my B.Tech in Computer Science and Engineering (AI & Data Science) at VGU[cite: 1]. I bring a unique blend of analytical problem-solving and creative frontend engineering to the table. Beyond processing data, I specialize in building **intuitive, data-rich user interfaces and interactive web applications**, ensuring insights are not just calculated, but seamlessly visualized for end-users[cite: 1].
+I am a passionate **Data Analyst** and **Frontend Developer** pursuing my B.Tech in Computer Science and Engineering (AI & Data Science) at VGU. I bring a unique blend of analytical problem-solving and creative frontend engineering to the table. Beyond processing data, I specialize in building **intuitive, data-rich user interfaces and interactive web applications**, ensuring insights are not just calculated, but seamlessly visualized for end-users[cite: 1].
 
-- 🧠 **Dual Expertise:** Proficient in data modeling (Python, SQL)[cite: 1] and modern web styling/logic (HTML5, CSS3, JavaScript)[cite: 1].
-- 📊 **Data Visualization:** Hands-on experience creating corporate dashboards in Power BI, Tableau, and Advanced Excel[cite: 1].
-- 💼 **Industry Experience:** Completed specialized data analytics and frontend roles across platforms like Skyscanner, InAmigos Foundation, and UniConverge[cite: 1].
-- 🏆 **Hackathon Competitor:** Recognized among the top teams in the **Smart India Hackathon (SIH)**[cite: 1] and Top 10% in the TechConnect National Hackathon[cite: 1].
-- 📚 **Highly Certified:** Hold professional certifications from Google, Microsoft, AWS, Oracle, Deloitte, and more[cite: 1].
+- 🧠 **Dual Expertise:** Proficient in data modeling (Python, SQL)[cite: 1] and modern web styling/logic (HTML5, CSS3, JavaScript).
+- 📊 **Data Visualization:** Hands-on experience creating corporate dashboards in Power BI, Tableau, and Advanced Excel.
+- 💼 **Industry Experience:** Completed specialized data analytics and frontend roles across platforms like Skyscanner, InAmigos Foundation, and UniConverge.
+- 🏆 **Hackathon Competitor:** Recognized among the top teams in the **Smart India Hackathon (SIH)** and Top 10% in the TechConnect National Hackathon.
+- 📚 **Highly Certified:** Hold professional certifications from Google, Microsoft, AWS, Oracle, Deloitte, and more.
 
 ---
 
@@ -29,8 +29,8 @@ I am a passionate **Data Analyst** and **Frontend Developer** pursuing my B.Tech
 | :--- | :--- |
 | **Frontend Development** | HTML5, CSS3, JavaScript (ES6+), Responsive Web Design, UI/UX Optimization |
 | **Data Languages** | Python (NumPy, Pandas, Scikit-learn), SQL (MySQL) |
-| **Analytics & BI** | Power BI, Tableau, Advanced Excel, Oracle Analytics Cloud[cite: 1] |
-| **Cloud & DevOps** | AWS (S3, Lambda, Glue), Oracle Cloud Infrastructure (OCI)[cite: 1], Git/GitHub |
+| **Analytics & BI** | Power BI, Tableau, Advanced Excel, Oracle Analytics Cloud |
+| **Cloud & DevOps** | AWS (S3, Lambda, Glue), Oracle Cloud Infrastructure (OCI), Git/GitHub |
 | **Machine Learning & NLP** | Regression, Classification, Random Forest, Sentiment Analysis (TextBlob, BeautifulSoup) |
 
 ---
@@ -48,18 +48,18 @@ I am a passionate **Data Analyst** and **Frontend Developer** pursuing my B.Tech
 - Developed core data infrastructure, performed predictive dashboard modeling, cleaned datasets with Python, and engineered business pipelines[cite: 1].
 
 ### 🔹 Financial Fraud Detection & Sales Intelligence
-- Built a Random Forest model evaluating 6.3M+ transactions[cite: 1] and connected backend relational data directly to robust Power BI dashboards for executive-level reporting[cite: 1].
+- Built a Random Forest model evaluating 6.3M+ transactions and connected backend relational data directly to robust Power BI dashboards for executive-level reporting.
 
 ---
 
 ## 🏅 Certifications & Achievements
 
-- **Smart India Hackathon (SIH)** — Recognized Top Team Competitor[cite: 1]
-- **Google Data Analytics** Professional Certificate[cite: 1]
-- **Microsoft Certified:** Power BI Data Analyst[cite: 1]
-- **AWS Analytics Services** Foundations & **Oracle Cloud Infrastructure** Foundations[cite: 1]
-- **Deloitte** Data Analytics Virtual Experience Certification[cite: 1]
-- **Top 10%** — TechConnect National Hackathon[cite: 1]
+- **Smart India Hackathon (SIH)** — Recognized Top Team Competitor
+- **Google Data Analytics** Professional Certificate
+- **Microsoft Certified:** Power BI Data Analyst
+- **AWS Analytics Services** Foundations & **Oracle Cloud Infrastructure** Foundations
+- **Deloitte** Data Analytics Virtual Experience Certification
+- **Top 10%** — TechConnect National Hackathon
 
 ---
 
